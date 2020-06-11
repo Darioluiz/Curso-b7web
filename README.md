@@ -5,3 +5,5 @@ Tem uns comentários no CSS, que estava estudando responsividade, optei por deix
 pesquisas futuras, e ver meus progressos..
 
 conseguir , hahaha! finalmente.
+
+Mais um teste para o git.
